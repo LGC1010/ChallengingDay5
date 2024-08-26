@@ -1,0 +1,33 @@
+.content_box{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.content_box h1 {
+  font-size: 60px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.content_box input {
+  padding: 10px;
+  border: 1px solid #222;
+  border-radius: 5px;
+}
+
+.content_box button{
+  cursor: pointer;
+  background: black;
+  color: #fff;
+  padding: 7px 10px;
+  border-radius: 5px;
+  margin-left: 20px;
+}
+
+.content_box li{
+  margin-top: 20px;
+}
